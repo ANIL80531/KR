@@ -1,5 +1,6 @@
 #include<stdio.h>	//	code/library which other wrote for our use.
 int main(){
+	putchar('\n');
 	// main is a special function every program start executing from main.
 	printf("Hello, World!\n");	// printf is function from stdio.h library.
 	//	arguments are used to communicate data between functions.
