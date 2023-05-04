@@ -10,7 +10,10 @@ int main(){
 	//	the body of function which contains statements is enclosed in {}
 	//	A function is called by using its name and followed by arguments in parenthesis.
 	//	Characters in double quotes are string constant.
-	
+	printf("Hello,");
+	printf(" World!");
+	printf("\n");
+	// produces identical results
 
 
 
