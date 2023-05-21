@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "$HOME/KR/Chapter-1/a.out",
+            "program": "~/KR/Chapter-1/a.out",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
